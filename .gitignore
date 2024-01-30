@@ -1,0 +1,56 @@
+# Virtual environment:
+venv/
+.env
+
+# Compiled python files:
+*.pyc
+__pycache__/
+
+# OS and IDE specific files:
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Log files and databases:
+*.log
+*.sqlite
+
+# If you're using Jupyter notebooks:
+.ipynb_checkpoints/
+
+# Distribution / packaging:
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+bin/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller:
+*.manifest
+*.spec
+
+# pytest:
+.cache/
+.pytest_cache/
+
+# mypy:
+.mypy_cache/
+
+# Others:
+*.swp
+*~
